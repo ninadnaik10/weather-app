@@ -1,7 +1,7 @@
 name: weather_provider
 description: A new Flutter project.
 publish_to: 'none'
-version: 0.1.0
+version: 0.1.0+2003
 
 environment:
   sdk: '>=2.19.4 <3.0.0'
